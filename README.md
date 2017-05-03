@@ -1,1 +1,2 @@
 # Multi-Layer-Survivability-Algorithsms
+ Application-Centric Survivability Algorithms for Multi-Layer IP/MPLS over Optical Transport Networks that provides a differentiated failure recovery considering individual application requirements of bandwidth, latency, availability and service downtime from the Application layer all the way down to Optical layer. The work is done for fulfillment of thesis and Internship requirements for masters degree.
